@@ -1,1 +1,1 @@
-This is just a quite site built on Ruby that was put together for my team to help them book a room in our office. Wanted it on Ruby webserver so I could run on Heroku for free without needing to do LAMP or even Apache. Super simple. Thanks and credit to Heroku for the help.
+This is just a quick site built on Ruby that was put together for my team to help them book a room in our office. Wanted it on Ruby webserver so I could run on Heroku for free without needing to do LAMP or even Apache. Super simple. Thanks and credit to Heroku for the help and bootstrap.
