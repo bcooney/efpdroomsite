@@ -1,2 +1,1 @@
-# efpdroomsite
-Static page on Ruby webserver to allow staff in my office to easily book a room. Nothing special.
+This is just a quite site built on Ruby that was put together for my team to help them book a room in our office. Wanted it on Ruby webserver so I could run on Heroku for free without needing to do LAMP or even Apache. Super simple. Thanks and credit to Heroku for the help.
